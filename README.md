@@ -42,7 +42,8 @@ Before we begin coding, let's complete the initial setup for this lesson:
 #### Open and Run File
 
 - Open the project in VSCode  
-- Run `npm install` to install all necessary dependencies
+- Run `pipenv install` to install all necessary dependencies
+- Run `pipenv shell` to enter the virtual environment.
 
 ---
 
